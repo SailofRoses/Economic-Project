@@ -1,0 +1,127 @@
+REF_DATE,GEO,DGUID,Prices,Estimates,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2015,Canada,2016A000011124,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787278,1.1.39,2091469,,,,0
+2016,Canada,2016A000011124,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787278,1.1.39,2101103,,,,0
+2017,Canada,2016A000011124,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787278,1.1.39,2170094,,,,0
+2018,Canada,2016A000011124,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787278,1.1.39,2228262,,,,0
+2019,Canada,2016A000011124,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787278,1.1.39,2257230,,,,0
+2020,Canada,2016A000011124,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787278,1.1.39,2164051,,,,0
+2021,Canada,2016A000011124,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787278,1.1.39,2302441,,,,0
+2022,Canada,2016A000011124,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787278,1.1.39,2379170,,,,0
+2023,Canada,2016A000011124,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787278,1.1.39,2405571,,,,0
+2015,Newfoundland and Labrador,2016A000210,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787379,2.1.39,37475,,,,0
+2016,Newfoundland and Labrador,2016A000210,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787379,2.1.39,38590,,,,0
+2017,Newfoundland and Labrador,2016A000210,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787379,2.1.39,35557,,,,0
+2018,Newfoundland and Labrador,2016A000210,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787379,2.1.39,34249,,,,0
+2019,Newfoundland and Labrador,2016A000210,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787379,2.1.39,35074,,,,0
+2020,Newfoundland and Labrador,2016A000210,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787379,2.1.39,33216,,,,0
+2021,Newfoundland and Labrador,2016A000210,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787379,2.1.39,33522,,,,0
+2022,Newfoundland and Labrador,2016A000210,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787379,2.1.39,34244,,,,0
+2023,Newfoundland and Labrador,2016A000210,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787379,2.1.39,35482,,,,0
+2015,Prince Edward Island,2016A000211,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787496,3.1.39,7316,,,,0
+2016,Prince Edward Island,2016A000211,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787496,3.1.39,7561,,,,0
+2017,Prince Edward Island,2016A000211,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787496,3.1.39,7950,,,,0
+2018,Prince Edward Island,2016A000211,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787496,3.1.39,8123,,,,0
+2019,Prince Edward Island,2016A000211,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787496,3.1.39,8444,,,,0
+2020,Prince Edward Island,2016A000211,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787496,3.1.39,8375,,,,0
+2021,Prince Edward Island,2016A000211,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787496,3.1.39,9151,,,,0
+2022,Prince Edward Island,2016A000211,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787496,3.1.39,9315,,,,0
+2023,Prince Edward Island,2016A000211,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787496,3.1.39,9401,,,,0
+2015,Nova Scotia,2016A000212,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787613,4.1.39,52475,,,,0
+2016,Nova Scotia,2016A000212,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787613,4.1.39,53480,,,,0
+2017,Nova Scotia,2016A000212,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787613,4.1.39,54532,,,,0
+2018,Nova Scotia,2016A000212,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787613,4.1.39,55809,,,,0
+2019,Nova Scotia,2016A000212,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787613,4.1.39,57201,,,,0
+2020,Nova Scotia,2016A000212,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787613,4.1.39,55786,,,,0
+2021,Nova Scotia,2016A000212,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787613,4.1.39,59580,,,,0
+2022,Nova Scotia,2016A000212,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787613,4.1.39,61395,,,,0
+2023,Nova Scotia,2016A000212,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787613,4.1.39,62242,,,,0
+2015,New Brunswick,2016A000213,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787730,5.1.39,39491,,,,0
+2016,New Brunswick,2016A000213,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787730,5.1.39,40003,,,,0
+2017,New Brunswick,2016A000213,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787730,5.1.39,41609,,,,0
+2018,New Brunswick,2016A000213,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787730,5.1.39,42752,,,,0
+2019,New Brunswick,2016A000213,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787730,5.1.39,42732,,,,0
+2020,New Brunswick,2016A000213,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787730,5.1.39,42151,,,,0
+2021,New Brunswick,2016A000213,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787730,5.1.39,44336,,,,0
+2022,New Brunswick,2016A000213,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787730,5.1.39,45961,,,,0
+2023,New Brunswick,2016A000213,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787730,5.1.39,46467,,,,0
+2015,Quebec,2016A000224,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787847,6.1.39,408179,,,,0
+2016,Quebec,2016A000224,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787847,6.1.39,414406,,,,0
+2017,Quebec,2016A000224,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787847,6.1.39,431558,,,,0
+2018,Quebec,2016A000224,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787847,6.1.39,445169,,,,0
+2019,Quebec,2016A000224,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787847,6.1.39,455495,,,,0
+2020,Quebec,2016A000224,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787847,6.1.39,440934,,,,0
+2021,Quebec,2016A000224,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787847,6.1.39,474242,,,,0
+2022,Quebec,2016A000224,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787847,6.1.39,488690,,,,0
+2023,Quebec,2016A000224,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787847,6.1.39,487555,,,,0
+2015,Ontario,2016A000235,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787964,7.1.39,781916,,,,0
+2016,Ontario,2016A000235,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787964,7.1.39,795465,,,,0
+2017,Ontario,2016A000235,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787964,7.1.39,823285,,,,0
+2018,Ontario,2016A000235,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787964,7.1.39,850111,,,,0
+2019,Ontario,2016A000235,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787964,7.1.39,861669,,,,0
+2020,Ontario,2016A000235,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787964,7.1.39,826151,,,,0
+2021,Ontario,2016A000235,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787964,7.1.39,876703,,,,0
+2022,Ontario,2016A000235,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787964,7.1.39,904895,,,,0
+2023,Ontario,2016A000235,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62787964,7.1.39,911581,,,,0
+2015,Manitoba,2016A000246,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788081,8.1.39,73665,,,,0
+2016,Manitoba,2016A000246,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788081,8.1.39,73891,,,,0
+2017,Manitoba,2016A000246,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788081,8.1.39,76405,,,,0
+2018,Manitoba,2016A000246,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788081,8.1.39,77545,,,,0
+2019,Manitoba,2016A000246,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788081,8.1.39,78038,,,,0
+2020,Manitoba,2016A000246,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788081,8.1.39,74752,,,,0
+2021,Manitoba,2016A000246,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788081,8.1.39,78035,,,,0
+2022,Manitoba,2016A000246,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788081,8.1.39,80674,,,,0
+2023,Manitoba,2016A000246,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788081,8.1.39,82385,,,,0
+2015,Saskatchewan,2016A000247,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788198,9.1.39,76328,,,,0
+2016,Saskatchewan,2016A000247,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788198,9.1.39,73677,,,,0
+2017,Saskatchewan,2016A000247,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788198,9.1.39,75740,,,,0
+2018,Saskatchewan,2016A000247,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788198,9.1.39,76296,,,,0
+2019,Saskatchewan,2016A000247,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788198,9.1.39,74972,,,,0
+2020,Saskatchewan,2016A000247,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788198,9.1.39,69707,,,,0
+2021,Saskatchewan,2016A000247,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788198,9.1.39,72755,,,,0
+2022,Saskatchewan,2016A000247,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788198,9.1.39,75354,,,,0
+2023,Saskatchewan,2016A000247,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788198,9.1.39,77634,,,,0
+2015,Alberta,2016A000248,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788315,10.1.39,319419,,,,0
+2016,Alberta,2016A000248,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788315,10.1.39,299754,,,,0
+2017,Alberta,2016A000248,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788315,10.1.39,306425,,,,0
+2018,Alberta,2016A000248,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788315,10.1.39,310233,,,,0
+2019,Alberta,2016A000248,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788315,10.1.39,304336,,,,0
+2020,Alberta,2016A000248,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788315,10.1.39,281112,,,,0
+2021,Alberta,2016A000248,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788315,10.1.39,297707,,,,0
+2022,Alberta,2016A000248,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788315,10.1.39,312459,,,,0
+2023,Alberta,2016A000248,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788315,10.1.39,318014,,,,0
+2015,British Columbia,2016A000259,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788432,11.1.39,279559,,,,0
+2016,British Columbia,2016A000259,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788432,11.1.39,289631,,,,0
+2017,British Columbia,2016A000259,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788432,11.1.39,301933,,,,0
+2018,British Columbia,2016A000259,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788432,11.1.39,311789,,,,0
+2019,British Columbia,2016A000259,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788432,11.1.39,323694,,,,0
+2020,British Columbia,2016A000259,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788432,11.1.39,317912,,,,0
+2021,British Columbia,2016A000259,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788432,11.1.39,343369,,,,0
+2022,British Columbia,2016A000259,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788432,11.1.39,353910,,,,0
+2023,British Columbia,2016A000259,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788432,11.1.39,362779,,,,0
+2015,Yukon,2016A000260,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788549,12.1.39,3681,,,,0
+2016,Yukon,2016A000260,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788549,12.1.39,3734,,,,0
+2017,Yukon,2016A000260,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788549,12.1.39,3864,,,,0
+2018,Yukon,2016A000260,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788549,12.1.39,4302,,,,0
+2019,Yukon,2016A000260,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788549,12.1.39,4150,,,,0
+2020,Yukon,2016A000260,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788549,12.1.39,3902,,,,0
+2021,Yukon,2016A000260,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788549,12.1.39,4236,,,,0
+2022,Yukon,2016A000260,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788549,12.1.39,4564,,,,0
+2023,Yukon,2016A000260,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788549,12.1.39,4560,,,,0
+2015,Northwest Territories,2016A000261,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788666,13.1.39,5819,,,,0
+2016,Northwest Territories,2016A000261,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788666,13.1.39,5671,,,,0
+2017,Northwest Territories,2016A000261,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788666,13.1.39,5282,,,,0
+2018,Northwest Territories,2016A000261,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788666,13.1.39,5331,,,,0
+2019,Northwest Territories,2016A000261,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788666,13.1.39,5207,,,,0
+2020,Northwest Territories,2016A000261,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788666,13.1.39,5044,,,,0
+2021,Northwest Territories,2016A000261,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788666,13.1.39,5264,,,,0
+2022,Northwest Territories,2016A000261,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788666,13.1.39,5437,,,,0
+2023,Northwest Territories,2016A000261,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788666,13.1.39,5586,,,,0
+2015,Nunavut,2016A000262,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788783,14.1.39,3727,,,,0
+2016,Nunavut,2016A000262,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788783,14.1.39,3786,,,,0
+2017,Nunavut,2016A000262,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788783,14.1.39,4348,,,,0
+2018,Nunavut,2016A000262,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788783,14.1.39,4990,,,,0
+2019,Nunavut,2016A000262,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788783,14.1.39,4787,,,,0
+2020,Nunavut,2016A000262,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788783,14.1.39,4068,,,,0
+2021,Nunavut,2016A000262,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788783,14.1.39,4460,,,,0
+2022,Nunavut,2016A000262,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788783,14.1.39,4473,,,,0
+2023,Nunavut,2016A000262,Chained (2017) dollars,Final domestic demand,Dollars,81,millions,6,v62788783,14.1.39,4715,,,,0
