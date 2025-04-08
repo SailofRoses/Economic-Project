@@ -45,5 +45,4 @@ This repository presents a curated portfolio of applied economics research condu
 
 ---
 
-## 📁 Repository Structure
 
